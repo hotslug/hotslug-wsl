@@ -5,6 +5,10 @@
     "version": "1.0.0",
     "publisher": "hotslug",
     "icon": "icon.jpg",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hotslug/hotslug-wsl"
+    },
     "engines": {
         "vscode": "^1.44.0"
     },
